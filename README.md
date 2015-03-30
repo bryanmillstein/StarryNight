@@ -1,4 +1,4 @@
-# Asteroids
+# Starry Night
 * Javascript/HTML5 Canvas remake of the Asteroids arcade game. Incorporates vector math for ship/bullet speed and direction.
 
 # Features
