@@ -1,0 +1,31 @@
+.body {
+  background: yellow;
+  
+}
+
+.game-content {
+
+}
+
+.game-content > h1 {
+  text-align: center;
+  padding: 20px;
+  font-style: italic;
+
+}
+.game-content #game-canvas {
+  width: 800px;
+  margin: 0 auto;
+  display: block;
+}
+
+.game-details {
+  width: 800px;
+  margin: auto;
+  display: block;
+}
+
+.instructions > p {
+  float: left;
+  padding: 5px 10px;
+}
